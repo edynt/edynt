@@ -10,9 +10,6 @@ I am a back-end developer but I also like front-end. Especially ReactJS.
 * ✉️  You can contact me at [triminh.nguyen2098@gmail.com](mailto:triminh.nguyen2098@gmail.com)
 * 🧠  I'm learning Python AI
 
-<a href="https://www.github.com/dylan2098" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dylan2098?logo=github&style=for-the-badge&color=84cc16&labelColor=ffffff" /></a>
-
 ### Programming Languages
 
 <p align="left">
