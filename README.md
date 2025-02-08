@@ -33,6 +33,8 @@ I am a back-end developer but I also like front-end. Especially ReactJS.
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&nbsp;
+
+  <a href="https://jestjs.io/docs/getting-started" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dylan2098/icons/ca9072511901b5254a4f413f593dc83e95d0c4ba/Jest.svg" width="36" height="36" alt="Jest" /></a>&nbsp;
 </p>
 
 ### Databases
