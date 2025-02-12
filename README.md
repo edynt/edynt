@@ -44,13 +44,8 @@ I am a back-end developer but I also like front-end. Especially ReactJS.
   <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edynt/icons/7ee1844000ce7e8319bee6bf51138ee0a35a6e19/nginx.svg" width="36" height="36" alt="Sequelize" /></a>&nbsp;
 </p>
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/edynt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/edynt"><img src="https://github-readme-stats.vercel.app/api?username=edynt&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0f172a&icon_color=84cc16&bg_color=ffffff&hide_border=true&show_icons=true" alt="edynt's GitHub stats" /></a>
 
