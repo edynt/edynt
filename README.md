@@ -48,5 +48,4 @@ I am a back-end developer but I also like front-end. Especially ReactJS.
 ### My GitHub Stats
 
 <a href="http://www.github.com/edynt"><img src="https://github-readme-stats.vercel.app/api?username=edynt&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0f172a&icon_color=84cc16&bg_color=ffffff&hide_border=true&show_icons=true" alt="edynt's GitHub stats" /></a>
-
 <a href="http://www.github.com/edynt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edynt&stroke=0f172a&background=ffffff&ring=f97316&fire=f97316&currStreakNum=0f172a&currStreakLabel=f97316&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
