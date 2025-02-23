@@ -43,9 +43,3 @@ I am a back-end developer but I also like front-end. Especially ReactJS.
   <a href="https://knexjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edynt/icons/7ee1844000ce7e8319bee6bf51138ee0a35a6e19/knexjs.svg" width="36" height="36" alt="Sequelize" /></a>&nbsp;
   <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/edynt/icons/7ee1844000ce7e8319bee6bf51138ee0a35a6e19/nginx.svg" width="36" height="36" alt="Sequelize" /></a>&nbsp;
 </p>
-
-
-### My GitHub Stats
-
-<a href="http://www.github.com/edynt"><img src="https://github-readme-stats.vercel.app/api?username=edynt&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0f172a&icon_color=84cc16&bg_color=ffffff&hide_border=true&show_icons=true" alt="edynt's GitHub stats" /></a>
-<a href="http://www.github.com/edynt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=edynt&stroke=0f172a&background=ffffff&ring=f97316&fire=f97316&currStreakNum=0f172a&currStreakLabel=f97316&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
